@@ -5,7 +5,7 @@ powered by Vagrant and Docker
 Prerequisites
 =============
 
-git http://git-scm.com/download/mac
+git http://git-scm.com/download/
 
 vagrant https://www.vagrantup.com/downloads.html
 
