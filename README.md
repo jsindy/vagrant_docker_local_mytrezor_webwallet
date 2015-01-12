@@ -1,5 +1,6 @@
-Run MyTrezor webwallet locally, powered by Vagrant and Docker
-========================================
+local MyTrezor webwallet
+========================
+powered by Vagrant and Docker
 
 Prerequisites
 =============
