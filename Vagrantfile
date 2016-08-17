@@ -1,6 +1,5 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-#Vagrant and Docker with automated docker image builds of PingFederate and PingAccess
 #by Joshua Sindy 2014
 
 $script = <<SCRIPT
